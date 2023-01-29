@@ -26,6 +26,29 @@
 
 13.Queue Operations - Enqueue, Dequeue and Display
 
+14.Tree Traversals - Inorder, Preorder, Postorder
+
+15.Hashing using linear probing
+
+16.Insertion sort
+
+17.Merge sort
+
+18.Quick sort
+
+19.Heap sort
+
+20.AVL Tree
+
+21.Breadth First Search
+
+22.Depth First Search
+
+23.Dijkstra's Algorithm
+
+24.Prim's Algorithm
+
+25.Kruskal Algorithm
 
 
 
